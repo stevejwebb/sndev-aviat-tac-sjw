@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Closed Briefs item view">8f74f9a3db057300f8c884da0b96197f</item_view>
+        <name>Master Item</name>
+        <screen display_value="Closed Briefs">9374bda3db057300f8c884da0b961902</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-02 13:17:46</sys_created_on>
+        <sys_id>5f74bda3db057300f8c884da0b9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_master_item_5f74bda3db057300f8c884da0b9619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-02 13:17:46</sys_updated_on>
+        <table>x_336849_aviat_tac_exec_brief</table>
+    </sys_sg_master_item>
+</record_update>

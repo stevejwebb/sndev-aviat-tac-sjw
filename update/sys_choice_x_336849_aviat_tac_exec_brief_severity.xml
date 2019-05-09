@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="severity" table="x_336849_aviat_tac_exec_brief" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>severity</element>
+            <hint>Highest Priority - Major Impact to company and customer</hint>
+            <inactive>false</inactive>
+            <label>Critical</label>
+            <language>en</language>
+            <name>x_336849_aviat_tac_exec_brief</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 09:40:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2192096bdb417300f8c884da0b961971</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 14:50:55</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>severity</element>
+            <hint>Major impacting issue</hint>
+            <inactive>false</inactive>
+            <label>High</label>
+            <language>en</language>
+            <name>x_336849_aviat_tac_exec_brief</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 09:43:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b63c16bdb417300f8c884da0b961935</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 14:50:59</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>severity</element>
+            <hint>Has a fair impact on customer and needs to be sorted soon</hint>
+            <inactive>false</inactive>
+            <label>Medium</label>
+            <language>en</language>
+            <name>x_336849_aviat_tac_exec_brief</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 09:44:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b8341abdb417300f8c884da0b9619e2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 14:51:01</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>severity</element>
+            <hint>Low priority - should be sorted at some point</hint>
+            <inactive>false</inactive>
+            <label>Low</label>
+            <language>en</language>
+            <name>x_336849_aviat_tac_exec_brief</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 09:44:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67a3896bdb417300f8c884da0b9619a1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 14:51:05</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>severity</element>
+            <hint>For information purpose only</hint>
+            <inactive>false</inactive>
+            <label>Don't Care</label>
+            <language>en</language>
+            <name>x_336849_aviat_tac_exec_brief</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 09:45:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2c341abdb417300f8c884da0b96195f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 14:51:09</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>severity</element>
+            <name>x_336849_aviat_tac_exec_brief</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 09:40:36</sys_created_on>
+            <sys_id>c2c2896bdb417300f8c884da0b96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>severity</sys_name>
+            <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+            <sys_update_name>sys_choice_x_336849_aviat_tac_exec_brief_severity</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-02 09:40:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

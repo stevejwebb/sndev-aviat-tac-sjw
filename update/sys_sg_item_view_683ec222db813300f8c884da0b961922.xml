@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Ooredoo by Severity">2ead4eeedb413300f8c884da0b9619b4</data_item>
+        <dependency_fields/>
+        <item_view_json/>
+        <name>Severity detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 12:36:10</sys_created_on>
+        <sys_id>683ec222db813300f8c884da0b961922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Severity detail item view</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_item_view_683ec222db813300f8c884da0b961922</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 12:36:10</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

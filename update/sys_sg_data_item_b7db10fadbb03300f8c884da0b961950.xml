@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Ooredoo Account Tagged for Exec</description>
+        <group_by/>
+        <name>Ooredoo Exec Tag</name>
+        <query_condition table="sn_customerservice_case">account=1de7b656db303300f8c884da0b9619de^sys_tags.70bbd4fadbb03300f8c884da0b9619e6=70bbd4fadbb03300f8c884da0b9619e6<item display_table="customer_account" display_value="Ooredoo" endquery="false" field="account" goto="false" newquery="false" operator="=" or="false" value="1de7b656db303300f8c884da0b9619de"/>
+            <item display_table="label" display_value="Exec" endquery="false" field="sys_tags.70bbd4fadbb03300f8c884da0b9619e6" goto="false" newquery="false" operator="=" or="false" value="70bbd4fadbb03300f8c884da0b9619e6"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-17 12:39:28</sys_created_on>
+        <sys_id>b7db10fadbb03300f8c884da0b961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ooredoo Exec Tag</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_data_item_b7db10fadbb03300f8c884da0b961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-17 12:39:28</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_data_item>
+</record_update>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Dates and Status" section_id="40f0b1addb1db700f8c884da0b961989" sys_domain="global" table="x_336849_aviat_tac_eb2" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>proposed_fix_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 19:54:47</sys_created_on>
+            <sys_id>a1e88a61db9db700f8c884da0b961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates and Status" display_value="Dates and Status" name="x_336849_aviat_tac_eb2" sys_domain="global" view="Default view">40f0b1addb1db700f8c884da0b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 19:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>prime_contact</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 19:54:47</sys_created_on>
+            <sys_id>6de88a61db9db700f8c884da0b961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates and Status" display_value="Dates and Status" name="x_336849_aviat_tac_eb2" sys_domain="global" view="Default view">40f0b1addb1db700f8c884da0b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 19:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 19:54:47</sys_created_on>
+            <sys_id>e1e88a61db9db700f8c884da0b961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates and Status" display_value="Dates and Status" name="x_336849_aviat_tac_eb2" sys_domain="global" view="Default view">40f0b1addb1db700f8c884da0b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 19:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 19:54:47</sys_created_on>
+            <sys_id>69e88a61db9db700f8c884da0b961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates and Status" display_value="Dates and Status" name="x_336849_aviat_tac_eb2" sys_domain="global" view="Default view">40f0b1addb1db700f8c884da0b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 19:54:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 19:54:47</sys_created_on>
+            <sys_id>ede88a61db9db700f8c884da0b961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates and Status" display_value="Dates and Status" name="x_336849_aviat_tac_eb2" sys_domain="global" view="Default view">40f0b1addb1db700f8c884da0b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 19:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 19:54:47</sys_created_on>
+            <sys_id>65e88a61db9db700f8c884da0b961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates and Status" display_value="Dates and Status" name="x_336849_aviat_tac_eb2" sys_domain="global" view="Default view">40f0b1addb1db700f8c884da0b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 19:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_1</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 19:54:47</sys_created_on>
+            <sys_id>e9e88a61db9db700f8c884da0b961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates and Status" display_value="Dates and Status" name="x_336849_aviat_tac_eb2" sys_domain="global" view="Default view">40f0b1addb1db700f8c884da0b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 19:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Dates and Status</caption>
+            <header>false</header>
+            <name>x_336849_aviat_tac_eb2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 18:10:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40f0b1addb1db700f8c884da0b961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dates and Status</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+            <sys_update_name>sys_ui_section_40f0b1addb1db700f8c884da0b961989</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 18:10:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

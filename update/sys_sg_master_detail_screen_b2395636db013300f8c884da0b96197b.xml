@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="My Cases">b05468c7db7c3300f8c884da0b96195a</data_item>
+        <description>Create a case</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">e2395236db013300f8c884da0b9619d0</icon>
+        <name>Create Case</name>
+        <order>10</order>
+        <parent>27885e32db013300f8c884da0b961988</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-30 08:02:51</sys_created_on>
+        <sys_id>b2395636db013300f8c884da0b96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Case</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_b2395636db013300f8c884da0b96197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-30 08:02:51</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>

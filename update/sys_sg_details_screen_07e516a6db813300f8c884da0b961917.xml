@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="APAC Account and date">e2459a66db813300f8c884da0b9619d8</data_item>
+        <description>List cases by account and date window</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">6ee5de66db813300f8c884da0b961918</icon>
+        <item_view display_value="Account and date range detail item view">32e592a6db813300f8c884da0b9619e3</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>fae556a6db813300f8c884da0b96196f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 13:09:55</sys_created_on>
+        <sys_id>07e516a6db813300f8c884da0b961917</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_details_screen_07e516a6db813300f8c884da0b961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 13:25:28</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

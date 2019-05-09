@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="EB2" max_length="40" name="x_336849_aviat_tac_eb2" type="collection">
+        <element label="Account" mandatory="true" max_length="32" name="account" reference="customer_account" type="reference"/>
+        <element label="Executive Comments" max_length="4000" name="executive_comments" type="journal_input"/>
+        <element label="Incident Case" max_length="32" name="incident_case" reference="incident" reference_qual="active=true^state!=7^EQ" reference_qual_condition="active=true^state!=7^EQ" type="reference"/>
+        <element label="Prime Contact" mandatory="true" max_length="32" name="prime_contact" reference="sys_user" type="reference"/>
+        <element label="Product" mandatory="true" max_length="32" name="product" reference="cmdb_model" type="reference"/>
+        <element label="Proposed Fix Date" max_length="40" name="proposed_fix_date" type="glide_date"/>
+        <element label="TAC Case" mandatory="true" max_length="32" name="tac_case" reference="sn_customerservice_case" reference_qual="active=true^state!=3^EQ" reference_qual_condition="active=true^state!=3^EQ" type="reference"/>
+        <element label="Business Critical" max_length="40" name="u_boolean_2" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Closure Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>

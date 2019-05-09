@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>There has been an update to the executive brief</message_string>
+        <name>EB Updated</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="EB Updated">1485763fdb41b300f8c884da0b961989</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-03 12:42:54</sys_created_on>
+        <sys_id>a6c57e3fdb41b300f8c884da0b961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EB Updated</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_push_notif_msg_a6c57e3fdb41b300f8c884da0b961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-03 12:42:54</sys_updated_on>
+        <table>x_336849_aviat_tac_exec_brief</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>

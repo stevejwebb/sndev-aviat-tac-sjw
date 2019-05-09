@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description>All things APAC</description>
+        <icon display_value="file-alt">8e73394bdbf87300f8c884da0b9619fb</icon>
+        <name>APAC</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 13:40:42</sys_created_on>
+        <sys_id>22733903db3c7300f8c884da0b96192d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>APAC</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_application_22733903db3c7300f8c884da0b96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 12:56:01</sys_updated_on>
+    </sys_sg_application>
+</record_update>

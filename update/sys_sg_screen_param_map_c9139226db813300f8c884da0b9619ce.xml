@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Account">f1015aa2db813300f8c884da0b9619cd</item_parameter>
+        <screen display_value="Account">85131226db813300f8c884da0b96190f</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 12:57:30</sys_created_on>
+        <sys_id>c9139226db813300f8c884da0b9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f1015aa2db813300f8c884da0b9619cd</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_c9139226db813300f8c884da0b9619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 12:57:30</sys_updated_on>
+        <ui_parameter display_value="Account">8d139226db813300f8c884da0b9619cc</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>Select by account</description>
+        <group_by>account</group_by>
+        <name>APAC Account Picker</name>
+        <query_condition table="sn_customerservice_case">location=dbf440100a0a0a65006618f752ee74b5^accountLIKE{{Account}}^active!={{Include Closed}}^ORDERBYnumber<item display_table="cmn_location" display_value="Apac" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="dbf440100a0a0a65006618f752ee74b5"/>
+            <item endquery="false" field="account" goto="false" newquery="false" operator="LIKE" or="false" value="{{Account}}"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="!=" or="false" value="{{Include Closed}}"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 12:48:17</sys_created_on>
+        <sys_id>c2f012a2db813300f8c884da0b9619e8</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>APAC Account Picker</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_data_item_c2f012a2db813300f8c884da0b9619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 13:02:23</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_data_item>
+</record_update>

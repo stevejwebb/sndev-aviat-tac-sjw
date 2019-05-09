@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f15c","FontColor":"#293E40","BackgroundColor":"#293E40","Name":"file-alt"}</icon>
+        <name>file-alt</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 13:19:12</sys_created_on>
+        <sys_id>c06b9f9edb703300f8c884da0b9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>file-alt</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_icon_c06b9f9edb703300f8c884da0b9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 13:19:12</sys_updated_on>
+    </sys_sg_icon>
+</record_update>

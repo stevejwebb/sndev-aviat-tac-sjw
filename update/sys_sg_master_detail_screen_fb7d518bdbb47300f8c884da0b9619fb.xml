@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil,sn_customerservice_agent</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="All Open">dd1d5d87dbbc3300f8c884da0b96197b</data_item>
+        <description>All cases not closed</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">a77dd94bdbb47300f8c884da0b9619a6</icon>
+        <name>All Open</name>
+        <order>50</order>
+        <parent>7ee91f5edb703300f8c884da0b96192d</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 12:04:40</sys_created_on>
+        <sys_id>fb7d518bdbb47300f8c884da0b9619fb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All Open</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_fb7d518bdbb47300f8c884da0b9619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 12:47:50</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>

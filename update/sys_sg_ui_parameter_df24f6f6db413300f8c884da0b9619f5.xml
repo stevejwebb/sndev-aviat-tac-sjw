@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Create a new case">d2dd66f2db413300f8c884da0b961972</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>popup</input_style>
+        <input_type>text</input_type>
+        <mandatory>true</mandatory>
+        <multi_select>false</multi_select>
+        <name>Short Description Select</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-30 10:00:59</sys_created_on>
+        <sys_id>df24f6f6db413300f8c884da0b9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Short Description Select</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_df24f6f6db413300f8c884da0b9619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-30 10:00:59</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+</record_update>

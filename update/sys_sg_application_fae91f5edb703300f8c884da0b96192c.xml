@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description>Aviat Technical Support</description>
+        <icon display_value="handshake">22e91f5edb703300f8c884da0b961910</icon>
+        <name>Aviat TAC</name>
+        <order/>
+        <roles>itil,sn_customerservice_agent</roles>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 13:12:49</sys_created_on>
+        <sys_id>fae91f5edb703300f8c884da0b96192c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Aviat TAC</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_application_fae91f5edb703300f8c884da0b96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 13:49:03</sys_updated_on>
+    </sys_sg_application>
+</record_update>

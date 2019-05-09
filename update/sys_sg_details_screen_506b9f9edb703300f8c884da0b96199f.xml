@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil,sn_customerservice_agent</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="Unassigned Cases">a51b5352db303300f8c884da0b9619de</data_item>
+        <description>Cases that have not been assigned</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">c06b9f9edb703300f8c884da0b9619a9</icon>
+        <item_view display_value="Unassigned Cases detail item view">846b13dedb703300f8c884da0b9619a0</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>5c6b13dedb703300f8c884da0b9619b9</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-16 13:19:13</sys_created_on>
+        <sys_id>506b9f9edb703300f8c884da0b96199f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_details_screen_506b9f9edb703300f8c884da0b96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 13:31:13</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

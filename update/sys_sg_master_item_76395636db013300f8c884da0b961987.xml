@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Create Case item view">be395636db013300f8c884da0b961970</item_view>
+        <name>Master Item</name>
+        <screen display_value="Create Case">b2395636db013300f8c884da0b96197b</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-30 08:02:51</sys_created_on>
+        <sys_id>76395636db013300f8c884da0b961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_master_item_76395636db013300f8c884da0b961987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-30 08:02:51</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_master_item>
+</record_update>

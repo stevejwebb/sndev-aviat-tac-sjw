@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Ooredoo Open">7c1f231edbb03300f8c884da0b9619f9</data_item>
+        <description>All Open Cases</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">13e93147db3c7300f8c884da0b96192c</icon>
+        <item_view display_value="Ooredoo detail item view">13e93147db3c7300f8c884da0b961931</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>afe97147db3c7300f8c884da0b9619d4</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 14:08:54</sys_created_on>
+        <sys_id>2be9f147db3c7300f8c884da0b961982</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_details_screen_2be9f147db3c7300f8c884da0b961982</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 14:19:07</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

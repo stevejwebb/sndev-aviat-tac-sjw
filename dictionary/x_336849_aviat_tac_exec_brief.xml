@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Exec Brief" max_length="40" name="x_336849_aviat_tac_exec_brief" type="collection">
+        <element label="Account" mandatory="true" max_length="255" name="account" reference="customer_account" type="reference"/>
+        <element choice="3" label="Assigned to" mandatory="true" max_length="50" name="assigned_to" reference="sys_user" type="reference">
+            <choice/>
+        </element>
+        <element label="Business Critical" max_length="40" name="business_critical" type="boolean"/>
+        <element label="Closure Date" max_length="40" name="closure_date" type="glide_date"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="EB Number" max_length="15" name="eb_number" read_only="true" type="string" use_dynamic_default="true"/>
+        <element label="Full Details" mandatory="true" max_length="8000" name="full_details" type="string_full_utf8"/>
+        <element label="Incident Case" max_length="12" name="incident_case" reference="incident" type="reference"/>
+        <element label="Notes" max_length="8000" name="notes" type="journal_input"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Opened" mandatory="true" max_length="40" name="opened" type="glide_date" use_dynamic_default="true"/>
+        <element label="Prime Contact" mandatory="true" max_length="60" name="prime_contact" reference="sys_user" type="reference"/>
+        <element label="Problem Description" mandatory="true" max_length="255" name="problem_description" type="string_full_utf8"/>
+        <element label="Product" mandatory="true" max_length="255" name="product" type="string"/>
+        <element label="Proposed Fix Date" max_length="40" name="resolution_date" type="glide_date"/>
+        <element choice="3" default="2" label="Severity" mandatory="true" max_length="40" name="severity" type="choice">
+            <choice>
+                <element hint="Highest Priority - Major Impact to company and customer" inactive_on_update="false" label="Critical" sequence="1" value="1"/>
+                <element hint="Major impacting issue" inactive_on_update="false" label="High" sequence="2" value="2"/>
+                <element hint="Has a fair impact on customer and needs to be sorted soon" inactive_on_update="false" label="Medium" sequence="3" value="3"/>
+                <element hint="Low priority - should be sorted at some point" inactive_on_update="false" label="Low" sequence="4" value="4"/>
+                <element hint="For information purpose only" inactive_on_update="false" label="Don't Care" sequence="5" value="5"/>
+            </choice>
+        </element>
+        <element choice="3" default="1" label="State" mandatory="true" max_length="40" name="state" type="choice">
+            <choice>
+                <element hint="The issue has been resolved" inactive_on_update="false" label="Closed" value="0"/>
+                <element hint="The issue is still live and not resolved" inactive_on_update="false" label="Open" value="1"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="3" choice_field="subcategory" choice_table="sn_customerservice_case" display="true" label="TAC Case" mandatory="true" max_length="10" name="tac_case" reference="sn_customerservice_case" reference_cascade_rule="none" reference_qual="active=true^state!=3^EQ" reference_qual_condition="active=true^state!=3^EQ" type="reference">
+            <choice/>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_design_topic">
+    <sys_cb_design_topic action="INSERT_OR_UPDATE">
+        <compiled_topic display_value="This is a test">b56d1787db013300f8c884da0b961904</compiled_topic>
+        <design_definition>{"type":"FlowTopic","triggers":[{"type":"Trigger","name":"43f08f8b7bd947a1bfb713f7cdd26fd9","triggerType":"request","id":"43f08f8b7bd947a1bfb713f7cdd26fd9"}],"goals":[{"name":"primary","trigger_id":"43f08f8b7bd947a1bfb713f7cdd26fd9","nodes":[{"type":"StartGoal","goal_id":"ba957af454dd4b4f9037333491055458","greeting_msg":{"type":"String","mode":"string","value":"gs.getMessage(\"Hello {0} {1} Welcome To Aviat Technical Support. {2}\", [vaInputs.user.first_name,vaInputs.user.last_name,vaInputs.user.company])"},"id":"9e0e7187a57446a9b26f4f300bb08146","name":"Start"},{"type":"TerminateGoal","goal_id":"ba957af454dd4b4f9037333491055458","confirmation_msg":{"type":"String","mode":"string","value":""},"id":"643856f8c6bb4af2980f46b17bc52214","name":"End"}],"edges":[{"type":"Edge","source_node_id":"9e0e7187a57446a9b26f4f300bb08146","target_node_id":"643856f8c6bb4af2980f46b17bc52214","id":"c3f14cd3103449c1b4ff86c7a5f1696c"}],"id":"ba957af454dd4b4f9037333491055458"}],"script_variables":[],"glide_variables":[{"type":"Reference","table":"sys_user","id":"current-user","name":"user"}],"roles":["sn_customerservice_agent","sn_customerservice.customer"],"scope":"ef89d71edb703300f8c884da0b961905","id":"aa1b1f07db013300f8c884da0b96195b","name":"This is a test","key_phrases":["This is a test","Who am I"]}</design_definition>
+        <design_topic_id>aa1b1f07db013300f8c884da0b96195b</design_topic_id>
+        <name>This is a test</name>
+        <sys_class_name>sys_cb_design_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-01 07:39:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>ce6d1787db013300f8c884da0b961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FlowTopic</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_cb_design_topic_ce6d1787db013300f8c884da0b961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-01 07:39:12</sys_updated_on>
+        <type>FlowTopic</type>
+    </sys_cb_design_topic>
+</record_update>

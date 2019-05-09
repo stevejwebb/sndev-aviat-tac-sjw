@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Include Closed</name>
+        <parent>c2f012a2db813300f8c884da0b9619e8</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 12:51:55</sys_created_on>
+        <sys_id>d7c1d2e2db813300f8c884da0b96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Include Closed</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_d7c1d2e2db813300f8c884da0b96193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 12:51:55</sys_updated_on>
+        <type>boolean</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="APAC Account Picker">c2f012a2db813300f8c884da0b9619e8</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">78131226db813300f8c884da0b961909</icon>
+        <name>Account</name>
+        <order>20</order>
+        <parent>ee733903db3c7300f8c884da0b96192d</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-29 12:57:30</sys_created_on>
+        <sys_id>85131226db813300f8c884da0b96190f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Account</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_85131226db813300f8c884da0b96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-29 12:59:20</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil,sn_customerservice_agent</application_roles>
+        <available_offline>false</available_offline>
+        <data_item display_value="My Cases">b05468c7db7c3300f8c884da0b96195a</data_item>
+        <description>Cases assigned to the logged in user</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">d4c6e44bdb7c3300f8c884da0b96194b</icon>
+        <name>My Assigned</name>
+        <order>40</order>
+        <parent>7ee91f5edb703300f8c884da0b96192d</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 08:05:31</sys_created_on>
+        <sys_id>64c6e44bdb7c3300f8c884da0b961905</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>My Assigned</sys_name>
+        <sys_package display_value="Aviat TAC" source="x_336849_aviat_tac">ef89d71edb703300f8c884da0b961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviat TAC">ef89d71edb703300f8c884da0b961905</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_64c6e44bdb7c3300f8c884da0b961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 08:16:21</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>
